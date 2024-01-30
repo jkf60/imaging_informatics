@@ -1,4 +1,4 @@
-# imaging_informatics
+# Medical Imaging Informatics
 
 Course Overview
 
